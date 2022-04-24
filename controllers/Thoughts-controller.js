@@ -2,7 +2,6 @@ const { User, Thoughts} = require('../models');
 
 //enter code to get ALL thoughts
 const thoughtsController = {
-    // get all pizzas
     getAllthoughts(req, res) {
       Thoughts.find({})
         .populate({
