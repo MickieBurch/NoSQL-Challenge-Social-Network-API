@@ -1,0 +1,25 @@
+{
+  "name": "nosql-challenge-social-network-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MickieBurch/NoSQL-Challenge-Social-Network-API.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MickieBurch/NoSQL-Challenge-Social-Network-API/issues"
+  },
+  "homepage": "https://github.com/MickieBurch/NoSQL-Challenge-Social-Network-API#readme",
+  "dependencies": {
+    "express": "^4.18.0",
+    "mongoose": "^6.3.1"
+  },
+  "keywords": [],
+  "description": ""
+}
